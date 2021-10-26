@@ -65,7 +65,7 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundWidth: full
-    title: Our clie
+    title: Sea to table
     subtitle: What our customers say about us
     testimonials:
       - quote: >-
