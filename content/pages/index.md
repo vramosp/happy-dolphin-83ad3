@@ -190,7 +190,7 @@ sections:
       submitLabel: Send Message
     feature:
       type: ImageBlock
-      url: /images/contact.png
+      url: /images/Pile of fish.png
       altText: Contact form image
     styles:
       self:
