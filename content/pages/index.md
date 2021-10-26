@@ -61,7 +61,7 @@ sections:
       text:
         textAlign: left
         margin:
-          - mt-11
+          - mt-12
           - mb-8
       actions:
         justifyContent: flex-start
