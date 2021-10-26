@@ -117,6 +117,40 @@ sections:
         textAlign: center
     type: TestimonialsSection
   - elementId: ''
+    colors: colors-c
+    backgroundWidth: full
+    quote: >
+      # “It’s great to see someone taking action while still maintaining a
+      sustainable fish supply"
+    name: Johnna Doe
+    title: Product Marketing Manager at Acme
+    backgroundImage:
+      url: /images/Fishing.jpeg
+      altText: Product Marketing Manager Quote
+    styles:
+      self:
+        height: screen
+        width: full
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-36
+          - pb-12
+        alignItems: flex-start
+        justifyContent: center
+      quote:
+        textAlign: left
+      name:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: left
+      title:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: left
+    type: QuoteSection
+  - elementId: ''
     variant: variant-a
     colors: colors-a
     backgroundWidth: full
@@ -213,40 +247,6 @@ sections:
         textAlign: left
     action: /.netlify/functions/submission_created
     type: ContactSection
-  - elementId: ''
-    colors: colors-c
-    backgroundWidth: full
-    quote: >
-      # “It’s great to see someone taking action while still maintaining a
-      sustainable fish supply"
-    name: Johnna Doe
-    title: Product Marketing Manager at Acme
-    backgroundImage:
-      url: /images/Fishing.jpeg
-      altText: Product Marketing Manager Quote
-    styles:
-      self:
-        height: screen
-        width: full
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-36
-          - pb-12
-        alignItems: flex-start
-        justifyContent: center
-      quote:
-        textAlign: left
-      name:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: left
-      title:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: left
-    type: QuoteSection
   - type: TextSection
     colors: colors-f
     backgroundWidth: full
