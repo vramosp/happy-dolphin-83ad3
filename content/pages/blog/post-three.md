@@ -4,8 +4,8 @@ layout: PostLayout
 date: '2021-07-01'
 author: content/data/team/hilary-ouse.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  This feature is the thing you were missing in your workflow, thank god we have
+  it for you to use.
 featuredImage:
   type: ImageBlock
   url: /images/Pile of fish.png
