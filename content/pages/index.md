@@ -121,7 +121,7 @@ sections:
     colors: colors-a
     backgroundWidth: full
     title: Our experiences
-    subtitle: Featured blog posts section example
+    subtitle: 'Like we said, it''s more than just fishing'
     actions:
       - type: Button
         label: View all
