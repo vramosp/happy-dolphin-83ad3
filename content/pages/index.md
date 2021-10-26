@@ -74,7 +74,7 @@ sections:
         title: Head chef at The Cook
         image:
           type: ImageBlock
-          url: /images/BG.png
+          url: /images/Shrimp.gif
           altText: Photo of Isabelle Parks
         styles:
           self:
