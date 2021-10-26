@@ -208,7 +208,6 @@ sections:
         title: Home cook
         image:
           type: ImageBlock
-          url: /images/Testimonial.png
           altText: Photo of Isabelle Parks
         styles:
           self:
