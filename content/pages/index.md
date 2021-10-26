@@ -120,7 +120,7 @@ sections:
     variant: variant-a
     colors: colors-a
     backgroundWidth: full
-    title: Latest news
+    title: Our experiences
     subtitle: Featured blog posts section example
     actions:
       - type: Button
