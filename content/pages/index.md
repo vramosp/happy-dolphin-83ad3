@@ -59,6 +59,7 @@ sections:
         textAlign: left
         margin:
           - mt-8
+          - mb-8
       text:
         textAlign: left
       actions:
