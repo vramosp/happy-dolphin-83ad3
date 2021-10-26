@@ -13,6 +13,7 @@ module.exports = {
     darkMode: false,
     theme: {
         extend: {
+            
             colors: {
                 body: themeStyle.body,
                 headlines: themeStyle.headlines,
