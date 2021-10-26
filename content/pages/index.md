@@ -65,7 +65,7 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundWidth: full
-    title: Testimonials
+    title: Our clie
     subtitle: What our customers say about us
     testimonials:
       - quote: >-
