@@ -8,7 +8,7 @@ sections:
     backgroundWidth: full
     title: We do fishing differently
     text: |
-      ##### Fast. Fresh. Daily
+      ###### **Fast. Fresh. Daily**
     actions:
       - type: Button
         label: Get Started
