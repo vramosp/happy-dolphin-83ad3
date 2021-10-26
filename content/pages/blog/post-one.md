@@ -4,8 +4,8 @@ layout: PostLayout
 date: '2021-06-28'
 author: content/data/team/dianne-ameter.json
 excerpt: >-
-  Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu,
-  eget egestas tortor pretium id. Sed imperdiet mattis eleifend.
+  We’re local, seasonal fisherman, supporting fishing restrictions. We fish what
+  the sea has to offer, nothing more, and no cheating.
 featuredImage:
   type: ImageBlock
   url: /images/Dude holding fish.png
