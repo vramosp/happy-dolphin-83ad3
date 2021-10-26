@@ -155,7 +155,7 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
   - elementId: contact-form
-    colors: colors-h
+    colors: colors-i
     backgroundWidth: inset
     title: Contact us
     text: We look forward to hearing from you.
