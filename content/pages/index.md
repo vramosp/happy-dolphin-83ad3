@@ -67,7 +67,7 @@ sections:
         justifyContent: flex-start
   - elementId: ''
     colors: colors-a
-    backgroundWidth: inset
+    backgroundWidth: full
     title: Testimonials
     subtitle: What our customers say about us
     testimonials:
