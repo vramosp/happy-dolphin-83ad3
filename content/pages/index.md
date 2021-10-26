@@ -120,7 +120,7 @@ sections:
     variant: variant-a
     colors: colors-a
     backgroundWidth: full
-    title: Our experiences
+    title: Services & Experiences
     subtitle: 'Like we said, it''s more than just fishing'
     actions:
       - type: Button
