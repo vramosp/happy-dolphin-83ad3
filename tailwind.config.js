@@ -13,7 +13,8 @@ module.exports = {
     darkMode: false,
     theme: {
         extend: {
-            fontFamily: { festive: ['"Rakkas"', 'sans-serif'] }
+            fontFamily: { festive: ['"Rakkas"', 'sans-serif'] 
+        }
             colors: {
                 body: themeStyle.body,
                 headlines: themeStyle.headlines,
