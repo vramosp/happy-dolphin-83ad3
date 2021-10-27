@@ -2,7 +2,7 @@
     "type": "Config",
     "header": {
         "headerVariant": "variant-d",
-        "primaryColors": "colors-a",
+        "primaryColors": "colors-b",
         "secondaryColors": "colors-i",
         "backgroundWidth": "full",
         "title": "Minimal",
