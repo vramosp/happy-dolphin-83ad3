@@ -127,7 +127,7 @@ sections:
     title: Head chef at The Cook
     backgroundImage:
       type: ImageBlock
-      url: /images/Fishing.jpeg
+      url: /images/Screen Shot 2021-10-26 at 8.33.31 PM.png
       altText: Water
       caption: ''
       styles:
