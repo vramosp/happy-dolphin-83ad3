@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - type: FeaturedPostsSection
     variant: variant-a
-    colors: colors-c
+    colors: colors-b
     backgroundWidth: full
     title: Current offers
     posts:
