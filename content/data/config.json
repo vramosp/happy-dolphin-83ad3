@@ -42,7 +42,7 @@
             },
             {
                 "type": "Button",
-                "label": "Sign up",
+                "label": "Join us",
                 "url": "/",
                 "altText": "Sign up",
                 "style": "secondary"
