@@ -89,6 +89,38 @@ sections:
         textAlign: left
       text:
         textAlign: left
+  - type: FeaturedPeopleSection
+    variant: variant-c
+    colors: colors-a
+    backgroundWidth: full
+    title: Our Team
+    people:
+      - content/data/team/dianne-ameter.json
+      - content/data/team/desmond-eagle.json
+      - content/data/team/hilary-ouse.json
+      - content/data/team/hugh-saturation.json
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+        padding:
+          - pt-12
+          - pb-12
+        alignItems: center
+        justifyContent: center
+      title:
+        fontWeight: 700
+        fontStyle: normal
+        textAlign: center
+      subtitle:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: center
+      actions:
+        justifyContent: center
   - type: CtaSection
     colors: colors-h
     backgroundWidth: full
@@ -119,38 +151,6 @@ sections:
         fontStyle: normal
         textAlign: center
       text:
-        textAlign: center
-      actions:
-        justifyContent: center
-  - type: FeaturedPeopleSection
-    variant: variant-c
-    colors: colors-a
-    backgroundWidth: full
-    title: Our Team
-    people:
-      - content/data/team/dianne-ameter.json
-      - content/data/team/desmond-eagle.json
-      - content/data/team/hilary-ouse.json
-      - content/data/team/hugh-saturation.json
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-12
-          - pb-12
-        alignItems: center
-        justifyContent: center
-      title:
-        fontWeight: 700
-        fontStyle: normal
-        textAlign: center
-      subtitle:
-        fontWeight: 400
-        fontStyle: normal
         textAlign: center
       actions:
         justifyContent: center
