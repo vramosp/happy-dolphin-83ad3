@@ -187,7 +187,7 @@ sections:
           - pb-8
         alignItems: flex-end
         justifyContent: flex-end
-        flexDirection: row-reverse
+        flexDirection: col-reverse
       title:
         fontWeight: 700
         fontStyle: normal
