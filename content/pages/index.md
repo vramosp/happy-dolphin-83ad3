@@ -184,7 +184,7 @@ sections:
           - mb-24
         padding:
           - pt-12
-          - pb-12
+          - pb-8
         alignItems: center
         justifyContent: center
         flexDirection: row-reverse
