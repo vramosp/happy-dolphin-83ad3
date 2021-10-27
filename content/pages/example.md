@@ -135,7 +135,7 @@ sections:
           opacity: 40
     styles:
       self:
-        height: auto
+        height: screen
         width: wide
         margin:
           - mt-12
