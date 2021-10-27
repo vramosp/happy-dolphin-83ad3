@@ -13,7 +13,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
-    title: We do fishing differently
+    title: This is your site's main message
     subtitle: Fresh. Better. Faster
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
