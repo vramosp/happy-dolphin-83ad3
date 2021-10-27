@@ -185,7 +185,7 @@ sections:
         padding:
           - pt-12
           - pb-8
-        alignItems: center
+        alignItems: flex-end
         justifyContent: center
         flexDirection: row-reverse
       title:
