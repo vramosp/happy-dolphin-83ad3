@@ -160,7 +160,7 @@ sections:
         justifyContent: center
   - type: FeaturedPostsSection
     variant: variant-c
-    colors: colors-e
+    colors: colors-d
     backgroundWidth: full
     posts:
       - content/pages/blog/post-three.md
