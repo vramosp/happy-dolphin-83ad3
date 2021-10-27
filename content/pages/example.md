@@ -124,7 +124,7 @@ sections:
       ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
       dicta sunt explicabo.
     name: Isabelle Parks
-    title: Head chef at The Cook
+    title: Home cook
     backgroundImage:
       type: ImageBlock
       url: /images/Screen Shot 2021-10-26 at 8.33.31 PM.png
