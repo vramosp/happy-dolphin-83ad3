@@ -181,7 +181,7 @@ sections:
         width: wide
         margin:
           - mt-0
-          - mb-36
+          - mb-32
         padding:
           - pt-12
           - pb-12
