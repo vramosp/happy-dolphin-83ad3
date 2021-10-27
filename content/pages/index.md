@@ -173,7 +173,7 @@ sections:
       submitLabel: Send Message
     feature:
       type: ImageBlock
-      url: /images/Pile of fish.png
+      url: /images/photo-1510130387422-82bed34b37e9.jpeg
       altText: Contact form image
     styles:
       self:
