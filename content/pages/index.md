@@ -66,7 +66,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
   - elementId: ''
-    colors: colors-d
+    colors: colors-f
     backgroundWidth: full
     quote: >
       # “It’s great to see someone taking action while still maintaining a
