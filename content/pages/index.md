@@ -67,7 +67,7 @@ sections:
     type: HeroSection
   - elementId: ''
     colors: colors-i
-    backgroundWidth: inset
+    backgroundWidth: full
     quote: >
       # “It’s great to see someone taking action while still maintaining a
       sustainable fish supply"
