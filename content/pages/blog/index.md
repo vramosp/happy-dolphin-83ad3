@@ -3,7 +3,7 @@ title: Blog
 layout: PageLayout
 sections:
   - elementId: ''
-    colors: colors-c
+    colors: colors-b
     backgroundWidth: full
     quote: |
       # Experience it for yourself
