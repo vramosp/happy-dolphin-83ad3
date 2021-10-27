@@ -37,7 +37,7 @@ sections:
       text:
         textAlign: left
   - type: ContactSection
-    colors: colors-b
+    colors: colors-a
     backgroundWidth: full
     title: Get in touch
     text: >-
