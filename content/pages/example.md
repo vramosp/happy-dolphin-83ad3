@@ -144,7 +144,7 @@ sections:
           - pt-36
           - pb-36
         alignItems: flex-end
-        justifyContent: flex-start
+        justifyContent: center
       quote:
         textAlign: left
       name:
