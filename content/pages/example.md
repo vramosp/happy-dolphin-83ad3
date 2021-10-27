@@ -251,7 +251,7 @@ sections:
     title: Head chef at The Cook
     backgroundImage:
       type: ImageBlock
-      url: /images/water.jpg
+      url: /images/Fishing.jpeg
       altText: Water
       caption: ''
       styles:
