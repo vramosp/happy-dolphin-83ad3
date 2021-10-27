@@ -5,7 +5,7 @@ sections:
   - type: TextSection
     colors: colors-a
     backgroundWidth: full
-    title: Need to contact us? you got it
+    title: Let's talk fish
     subtitle: The section subtitle
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
