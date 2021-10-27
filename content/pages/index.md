@@ -173,7 +173,7 @@ sections:
       submitLabel: Send Message
     feature:
       type: ImageBlock
-      url: /images/photo-1510130387422-82bed34b37e9.jpeg
+      url: /images/Screen Shot 2021-10-26 at 8.33.31 PM.png
       altText: Contact form image
     styles:
       self:
