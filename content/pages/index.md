@@ -13,7 +13,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
-    title: This Is A Big Hero Headline
+    title: We do fishing differently
     subtitle: Fresh. Better. Faster
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
