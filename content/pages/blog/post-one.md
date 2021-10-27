@@ -12,7 +12,7 @@ featuredImage:
   altText: Post Image
 bottomSections:
   - type: CtaSection
-    colors: colors-e
+    colors: colors-a
     backgroundWidth: full
     title: Let's do this
     text: >-
