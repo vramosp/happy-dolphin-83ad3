@@ -89,9 +89,8 @@ sections:
     colors: colors-h
     backgroundWidth: full
     title: Let's do this
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: |
+      Whatever you want to do, we should do it together, cause why not.
     actions:
       - type: Button
         url: '#'
