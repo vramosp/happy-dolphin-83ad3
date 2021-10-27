@@ -7,7 +7,6 @@ sections:
     backgroundWidth: full
     quote: |
       # Experience it for yourself
-    name: Johnna Doe
     backgroundImage:
       url: /images/BG.png
       altText: Product Marketing Manager Quote
