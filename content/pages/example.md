@@ -85,38 +85,6 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - type: CtaSection
-    colors: colors-h
-    backgroundWidth: full
-    title: Let's do this
-    text: |
-      Whatever you want to do, we should do it together, cause why not.
-    actions:
-      - type: Button
-        url: '#'
-        label: Get Started
-        style: primary
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-12
-          - pb-12
-        alignItems: center
-        justifyContent: center
-        flexDirection: col
-      title:
-        fontWeight: 700
-        fontStyle: normal
-        textAlign: center
-      text:
-        textAlign: center
-      actions:
-        justifyContent: center
   - type: FeaturedPostsSection
     variant: variant-c
     colors: colors-b
