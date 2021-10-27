@@ -6,7 +6,7 @@ sections:
     colors: colors-a
     backgroundWidth: full
     title: Let's talk fish
-    subtitle: The section subtitle
+    subtitle: Our support is available 24/7
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
