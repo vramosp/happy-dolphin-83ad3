@@ -136,7 +136,7 @@ sections:
     styles:
       self:
         height: screen
-        width: narrow
+        width: wide
         margin:
           - mt-12
           - mb-0
