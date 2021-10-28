@@ -33,7 +33,7 @@
         },
         {
             "label": "Contact us dark - With image (left)",
-            "thumbnail": "images/contact-dark-image-l.png",
+            "thumbnail": "images/placeholder.png",
             "data": {
                 "title": "Contact us",
                 "text": "We look forward to hearing from you.",
