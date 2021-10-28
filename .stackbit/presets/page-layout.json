@@ -4,7 +4,11 @@
             "label": "Landing",
             "data":{
                 "title": "All about fish",
-
+                "feature": {
+                "type": "ImageBlock",
+                "url": "/images/hero-image.png",
+                "altText": "Hero section image"
+            }
             },
             "thumbnail": "images/page-landing.png"
         }, {
