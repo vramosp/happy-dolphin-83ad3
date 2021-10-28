@@ -4,8 +4,9 @@
             "label": "Landing",
             "thumbnail": "images/page-landing.png",
             "feature": {
-                "url": "images/Hero image.png",
-                ""
+                "type": "ImageBlock",
+                            "url": "/images/about.jpg",
+                            "altText": "About us"
             }
         }, {
             "label": "Contact",
