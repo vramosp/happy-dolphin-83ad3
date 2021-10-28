@@ -5,11 +5,11 @@
             "data":{
                 "sections":{
                     "type": "HeroSection",
-                        "title": "All about the art of selling fish",
-                        "feature": {
-                            "type": "ImageBlock",
-                            "url": "/images/hero-image.png",
-                            "altText": "Hero section image"
+                    "title": "All about the art of selling fish",
+                    "feature": {
+                        "type": "ImageBlock",
+                        "url": "/images/hero-image.png",
+                        "altText": "Hero section image"
                 }
             },
             "thumbnail": "images/page-landing.png"
