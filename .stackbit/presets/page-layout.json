@@ -15,16 +15,6 @@
                             "url": "/images/hero-image.png",
                             "altText": "Hero section image"
                         },
-                        "styles":[
-                            {
-                                "title":{
-                                    "fontWeight": 700,
-                                    "fontStyle": "normal",
-                                    "textAlign": "left",
-                                    "margin": "mt-12"
-                                }
-                            }
-                        ]
                     }
                 ]
             }
