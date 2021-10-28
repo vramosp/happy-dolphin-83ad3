@@ -6,14 +6,14 @@ sections:
     colors: colors-a
     backgroundWidth: full
     backgroundImage:
-      altText: lorem-ipsum
-      caption: lorem-ipsum
+      altText: 
+      caption: 
       elementId: ''
       styles:
         self:
           opacity: 100
       type: ImageBlock
-    title: We do fishing differentlyyyyy.
+    title: We do fishing differently.
     subtitle: Fresh. Better. Faster
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
