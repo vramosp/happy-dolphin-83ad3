@@ -5,7 +5,7 @@
             "thumbnail": "images/page-landing.png",
             "feature": {
                 "type": "ImageBlock",
-                "url": "/images/Hero image.png",
+                "url": "images/Hero image.png",
                 "altText": "Hero section image"
             }
         }, {
