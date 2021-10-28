@@ -3,7 +3,7 @@
     "presets": [
         {
             "label": "Contact us dark - With image (right)",
-            "thumbnail": "images/contact-dark-image-r.png",
+            "thumbnail": "images/placeholder.png",
             "data": {
                 "title": "Contact us",
                 "text": "We look forward to hearing from you.",
