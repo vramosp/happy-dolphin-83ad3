@@ -6,7 +6,7 @@
             "feature": {
                 "type": "ImageBlock",
                 "url": "/images/about.jpg",
-                "altText": "About us"
+                "altText": "Hero section image"
             }
         }, {
             "label": "Contact",
