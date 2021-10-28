@@ -4,7 +4,8 @@
             "label": "Landing",
             "thumbnail": "images/page-landing.png",
             "feature": {
-                "url": "images/Hero image.png"
+                "url": "images/Hero image.png",
+                ""
             }
         }, {
             "label": "Contact",
