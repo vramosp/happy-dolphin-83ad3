@@ -2,6 +2,7 @@
     "model": "PageLayout",
     "presets": [{
             "label": "Landing",
+            "title"
             "thumbnail": "images/page-landing.png",
             "feature": {
                 "type": "ImageBlock",
