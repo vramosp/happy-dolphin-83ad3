@@ -5,9 +5,8 @@
             "data":{
                 "title": "All about fish",
 
-            }
-            "thumbnail": "images/page-landing.png",
-            
+            },
+            "thumbnail": "images/page-landing.png"
         }, {
             "label": "Contact",
             "thumbnail": "images/page-contact.png",
