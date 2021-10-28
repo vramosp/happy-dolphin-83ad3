@@ -15,13 +15,8 @@
                             "url": "/images/hero-image.png",
                             "altText": "Hero section image"
                         },
-                    },
-                    {
-                        "type": "CtaSection",
-                        "title": "This Is A CTA",
-                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus.",
-                        },
                     }
+                    
                 ]
             }
         }, {
