@@ -45,7 +45,6 @@
                     "justifyContent": "flex-start"
                 }
             }
-                    }
         }, {
             "label": "Contact",
             "thumbnail": "images/page-contact.png",
