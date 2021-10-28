@@ -39,7 +39,7 @@
                     "textAlign": "left"
                 },
                     "text": {
-                                "textAlign": "left"
+                    "textAlign": "left"
                             },
                             "actions": {
                                 "justifyContent": "flex-start"
