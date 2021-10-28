@@ -11,7 +11,7 @@
                 "image": {
                             "type": "ImageBlock",
                             "url": "/images/hero-image.png",
-                            "altText": "Photo of Isabelle Parks"
+                            "altText": "Hero section image"
                         },
                 "styles": {
                     "self": {
