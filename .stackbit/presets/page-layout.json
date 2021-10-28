@@ -15,7 +15,7 @@
                             "url": "/images/hero-image.png",
                             "altText": "Hero section image"
                         },
-                        "styles":{
+                        "styles":[]
                             "title":{
                                 "fontWeight": 700,
                                 "fontStyle": "normal",
