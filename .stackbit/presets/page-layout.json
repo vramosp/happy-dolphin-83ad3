@@ -15,18 +15,7 @@
                             "url": "/images/hero-image.png",
                             "altText": "Hero section image"
                         }
-                    },
-                    {
-                        "type": "CtaSection",
-                        "title": "This is a CTA section",
-                        "text": "text",
-                        "actions":{
-                            "type": "Button",
-                            "label": "Learn more",
-                            "url": "/",
-                            "style": "Primary"
-                        }
-                    }  
+                    }
                 ]
             }
         }, {
