@@ -17,7 +17,7 @@
                         }
                     },
                     {
-                        "type": "HeroSection",
+                        "type": "CtaSection",
                         "title": "This is a CTA section",
                         "text": "text",
                     }  
