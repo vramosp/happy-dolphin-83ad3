@@ -2,7 +2,7 @@
     "model": "PageLayout",
     "presets": [{
             "label": "Landing",
-            "thumbnail": "/images/page-landing.png",
+            "thumbnail": "images/page-landing.png",
             "data":{
                 "sections":[
                     {
