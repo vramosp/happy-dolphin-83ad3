@@ -2,8 +2,8 @@
     "model": "PageLayout",
     "presets": [{
             "label": "Landing",
-            "thumbnail": "images/page-landing.png"
-            "feature"
+            "thumbnail": "images/page-landing.png",
+            "feature"{}
         }, {
             "label": "Contact",
             "thumbnail": "images/page-contact.png",
