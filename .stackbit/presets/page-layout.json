@@ -19,7 +19,7 @@
                 ]
             },
             "styles": {
-                            "self": {
+                "self": {
                                 "height": "auto",
                                 "width": "wide",
                                 "margin": ["mt-0", "mb-0"],
