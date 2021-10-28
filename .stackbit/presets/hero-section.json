@@ -2,7 +2,7 @@
     "model": "HeroSection",
     "presets": [{
             "label": "Image right",
-            "thumbnail": "images/hero-right.png",
+            "thumbnail": "images/hero-right.jpg",
             "data": {
                 "type": "HeroSection",
                 "title": "All about the art of selling fish",
