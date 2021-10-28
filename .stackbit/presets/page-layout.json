@@ -12,6 +12,7 @@
                             "type": "ImageBlock",
                             "url": "/images/hero-image.png",
                             "altText": "Hero section image"
+                        }
                     }
                 ]
             }
