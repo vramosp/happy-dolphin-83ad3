@@ -20,7 +20,9 @@
                         "type": "CtaSection",
                         "title": "This is a CTA section",
                         "text": "text",
-                        "actions"
+                        "actions":{
+                            
+                        }
                     }  
                 ]
             }
