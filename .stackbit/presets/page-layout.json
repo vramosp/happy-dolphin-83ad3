@@ -43,8 +43,8 @@
                 },
                 "actions": {
                     "justifyContent": "flex-start"
-                            }
-                        }
+                }
+            }
                     }
         }, {
             "label": "Contact",
