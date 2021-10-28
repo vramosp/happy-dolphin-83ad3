@@ -6,7 +6,7 @@
                 "sections": [
                     {
                         "type": "HeroSection",
-                        "title": "All about fish",
+                        "title": "All about the art of selling fish",
                         "feature": {
                             "type": "ImageBlock",
                             "url": "/images/hero-image.png",
