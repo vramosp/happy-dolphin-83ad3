@@ -21,7 +21,7 @@
                         "title": "This is a CTA section",
                         "text": "text",
                         "actions":{
-                            
+                            "type": "Button",
                         }
                     }  
                 ]
