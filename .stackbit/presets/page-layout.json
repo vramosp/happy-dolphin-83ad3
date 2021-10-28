@@ -40,9 +40,9 @@
                 },
                 "text": {
                     "textAlign": "left"
-                            },
-                            "actions": {
-                                "justifyContent": "flex-start"
+                },
+                "actions": {
+                    "justifyContent": "flex-start"
                             }
                         }
                     }
