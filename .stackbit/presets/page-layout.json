@@ -3,6 +3,10 @@
     "presets": [{
             "label": "Landing",
             "data":{
+                "sections": [
+                    {
+                        "type": "HeroSection",
+                        "title": "Contact us",
                 "title": "All about fish",
                 "feature": {
                     "type": "ImageBlock",
