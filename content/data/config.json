@@ -37,7 +37,7 @@
                 "type": "Button",
                 "label": "Join us",
                 "url": "/",
-                "altText": "Sign up",
+                "altText": "Join us",
                 "style": "secondary"
             }
         ],
