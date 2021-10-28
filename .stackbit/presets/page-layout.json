@@ -17,7 +17,7 @@
                         },
                         "styles":{
                             "title":{
-                                fontWeight: 700
+                                "fontWeight: 700
                             }
 
                         }
