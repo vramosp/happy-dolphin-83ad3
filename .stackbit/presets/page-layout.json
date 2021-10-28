@@ -7,10 +7,10 @@
                     {
                         "type": "HeroSection",
                         "title": "Contact us",
-                "feature": {
-                    "type": "ImageBlock",
-                    "url": "/images/hero-image.png",
-                    "altText": "Hero section image"
+                        "feature": {
+                            "type": "ImageBlock",
+                            "url": "/images/hero-image.png",
+                            "altText": "Hero section image"
                 }
             },
             "thumbnail": "images/page-landing.png"
