@@ -7,7 +7,6 @@
                     {
                         "type": "HeroSection",
                         "title": "Contact us",
-                "title": "All about fish",
                 "feature": {
                     "type": "ImageBlock",
                     "url": "/images/hero-image.png",
