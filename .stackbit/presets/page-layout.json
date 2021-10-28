@@ -23,7 +23,8 @@
                         "actions":{
                             "type": "Button",
                             "label": "Learn more",
-                            "url": "/"
+                            "url": "/",
+                            "style": "Primary"
                         }
                     }  
                 ]
