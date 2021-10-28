@@ -19,7 +19,8 @@
                             "title":{
                                 "fontWeight": 700,
                                 "fontStyle": "normal",
-                                "textAlign": "lerft"
+                                "textAlign": "left",
+                                "margin": "mt-12"
                             }
 
                         }
