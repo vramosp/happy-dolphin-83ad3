@@ -128,7 +128,7 @@
         },
         {
             "label": "Image bottom",
-            "thumbnail": "images/hero-bottom.png",
+            "thumbnail": "images/hero-bottom.jpg",
             "data": {
                 "type": "HeroSection",
                 "title": "All about the art of selling fish",
