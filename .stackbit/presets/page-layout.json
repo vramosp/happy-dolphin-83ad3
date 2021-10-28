@@ -15,7 +15,9 @@
                             "url": "/images/hero-image.png",
                             "altText": "Hero section image"
                         }
-                        "styles":
+                        "styles":{
+                            
+                        }
                     }
                 ]
             }
