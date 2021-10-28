@@ -5,7 +5,7 @@
             "thumbnail": "images/page-landing.png",
             "data":{
                 "sections":[
-                {}
+                {
                     "type": "HeroSection",
                     "title": "All about the art of selling fish",
                     "feature": {
