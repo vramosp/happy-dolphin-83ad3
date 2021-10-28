@@ -16,7 +16,9 @@
                             "altText": "Hero section image"
                         },
                         "styles":{
-                            "title":
+                            "title":{
+                                fontWeight: 700
+                            }
 
                         }
                     }
