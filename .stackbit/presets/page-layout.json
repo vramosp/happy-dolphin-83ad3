@@ -3,7 +3,9 @@
     "presets": [{
             "label": "Landing",
             "thumbnail": "images/page-landing.png",
-            "feature"{}
+            "feature": {
+                
+            }
         }, {
             "label": "Contact",
             "thumbnail": "images/page-contact.png",
