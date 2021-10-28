@@ -2,6 +2,7 @@
     "model": "PageLayout",
     "presets": [{
             "label": "Landing",
+            "thumbnail": "images/page-landing.png",
             "data":{
                 "sections":{
                     "type": "HeroSection",
@@ -12,7 +13,6 @@
                         "altText": "Hero section image"
                 }
             },
-            "thumbnail": "images/page-landing.png"
         }, {
             "label": "Contact",
             "thumbnail": "images/page-contact.png",
