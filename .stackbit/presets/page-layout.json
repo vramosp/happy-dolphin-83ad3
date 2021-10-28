@@ -5,8 +5,8 @@
             "thumbnail": "images/page-landing.png",
             "feature": {
                 "type": "ImageBlock",
-                            "url": "/images/about.jpg",
-                            "altText": "About us"
+                "url": "/images/about.jpg",
+                "altText": "About us"
             }
         }, {
             "label": "Contact",
