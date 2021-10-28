@@ -2,6 +2,9 @@
     "model": "PageLayout",
     "presets": [{
             "label": "Landing",
+            "data":{
+                
+            }
             "title": "All about fish",
             "thumbnail": "images/page-landing.png",
             "feature": {
