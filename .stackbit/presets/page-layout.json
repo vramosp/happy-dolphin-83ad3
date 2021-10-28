@@ -8,6 +8,7 @@
                     {
                         "type": "HeroSection",
                         "title": "All about the art of selling fish",
+                        "text": ""
                         "feature": {
                             "type": "ImageBlock",
                             "url": "/images/hero-image.png",
