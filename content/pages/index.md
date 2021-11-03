@@ -68,9 +68,8 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundWidth: full
-    quote: >
-      # “It’s great to see someone taking action while still maintaining a fish
-      supply to home cooks.”
+    quote: |
+      # "This is a quote"
     name: Johnna Doe
     title: Product Marketing Manager at Acme
     backgroundImage:
