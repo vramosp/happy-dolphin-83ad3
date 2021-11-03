@@ -45,7 +45,7 @@
                         "margin": ["mt-0", "mb-0"],
                         "padding": ["pt-0", "pb-0"],
                         "alignItems": "center",
-                        "justifyContent": "center",
+                        "justifyContent": "center"
                     },
                     "title": {
                         "fontWeight": 700,
