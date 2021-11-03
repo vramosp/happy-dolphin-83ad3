@@ -4,7 +4,7 @@
             "label": "With bg image, text left",
             "thumbnail": "images/placeholder.png",
             "backgroundWith": "full",
-            
+            "quote":
             "data": {
                 "colors": "colors-a",
                 "backgroundImage": {
