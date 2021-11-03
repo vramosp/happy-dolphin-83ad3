@@ -39,7 +39,7 @@
             "label": "With bg image, text rigth",
             "thumbnail": "images/placeholder.png",
             "backgroundWith": "full",
-            "fontFestive": "Rakkas"
+            "fontFestive": "Rakkas",
             "data": {
                 "colors": "colors-a",
                 "contentAlignHoriz": "right",
