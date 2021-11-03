@@ -71,7 +71,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
-        padding:
+        margin:
           - pb-8
       actions:
         justifyContent: flex-start
