@@ -104,7 +104,7 @@ sections:
     type: CtaSection
   - elementId: ''
     variant: variant-b
-    colors: colors-c
+    colors: colors-h
     backgroundWidth: full
     title: Latest posts
     subtitle: ''
