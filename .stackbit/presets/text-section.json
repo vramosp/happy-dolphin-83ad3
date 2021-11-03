@@ -2,7 +2,7 @@
     "model": "TextSection",
     "presets": [{
             "label": "Dark",
-            "thumbnail": "images/text-section-light.png",
+            "thumbnail": "images/text-section-light.jpg",
             "data": {
                 "colors": "colors-a"
             }
