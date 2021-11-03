@@ -69,7 +69,7 @@ sections:
     colors: colors-a
     backgroundWidth: full
     quote: >
-      # “It’s great to see someone taking action while still maintaining fish
+      # “It’s great to see someone taking action while still maintaining a fish
       supply to home cooks.”
     name: Johnna Doe
     title: Product Marketing Manager at Acme
