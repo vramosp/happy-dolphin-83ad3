@@ -1,7 +1,7 @@
 {
     "model": "CtaSection",
     "presets": [{
-            "label": "Button bottom",
+            "label": "Button dark",
             "thumbnail": "images/cta-bottom.png",
             "data": {
                 "colors": "colors-c",
