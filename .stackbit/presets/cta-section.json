@@ -4,10 +4,6 @@
             "label": "Button dark",
             "thumbnail": "images/cta-bottom.png",
             "backgroundWidth": "full",
-            "backgroundImage": {
-                "url": "",
-                "altText": ""
-            },
             "data": {
                 "colors": "colors-c",
                 "styles": {
