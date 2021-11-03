@@ -14,7 +14,7 @@ sections:
       url: /images/hero-image.png
       altText: Hero section image
   - elementId: ''
-    variant: variant-c
+    variant: variant-a
     colors: colors-a
     backgroundWidth: full
     title: About us
