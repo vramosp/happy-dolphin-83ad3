@@ -2,11 +2,12 @@
     "model": "QuoteSection",
     "presets": [{
             "label": "With bg image, text left",
-            "thumbnail": "images/quote-image-bottom.png",
+            "thumbnail": "images/placeholder.png",
+            "backgroundWith": "full",
             "data": {
-                "colors": "colors-c",
+                "colors": "colors-a",
                 "backgroundImage": {
-                    "url": "/images/post-1.jpeg",
+                    "url": "/images/BG.png",
                     "altText": "Product Marketing Manager Quote"
                 },
                 "styles": {
@@ -14,9 +15,9 @@
                         "height": "auto",
                         "width": "wide",
                         "margin": ["mt-0", "mb-0"],
-                        "padding": ["pt-36", "pb-12"],
-                        "alignItems": "flex-start",
-                        "justifyContent": "center"
+                        "padding": ["pt-36", "pb-36"],
+                        "alignItems": "center",
+                        "justifyContent": "center",
                     },
                     "quote": {
                         "textAlign": "left"
@@ -36,7 +37,7 @@
         },
         {
             "label": "With bg image, text rigth",
-            "thumbnail": "images/quote-image-top.png",
+            "thumbnail": "images/placeholder.png",
             "data": {
                 "colors": "colors-c",
                 "contentAlignHoriz": "right",
@@ -72,7 +73,7 @@
         },
         {
             "label": "Without bg image text left",
-            "thumbnail": "images/quote-dark-bottom.png",
+            "thumbnail": "images/placeholder.png",
             "data": {
                 "colors": "colors-c",
                 "contentAlignHoriz": "left",
@@ -105,7 +106,7 @@
         },
         {
             "label": "Without bg imagem text right",
-            "thumbnail": "images/quote-dark-top.png",
+            "thumbnail": "images/placeholder.png",
             "data": {
                 "colors": "colors-c",
                 "contentAlignHoriz": "right",
