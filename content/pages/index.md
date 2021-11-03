@@ -152,7 +152,7 @@ sections:
           - pt-12
           - pb-8
         alignItems: flex-end
-        justifyContent: flex-end
+        justifyContent: flex-start
         flexDirection: row-reverse
       title:
         fontWeight: 700
