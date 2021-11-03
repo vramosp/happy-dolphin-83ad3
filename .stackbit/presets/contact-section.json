@@ -67,7 +67,7 @@
             }
         },
         {
-            "label": "Contact us dark - No image",
+            "label": "No image, dark",
             "thumbnail": "images/placeholder.png",
             "data": {
                 "title": "Contact us",
