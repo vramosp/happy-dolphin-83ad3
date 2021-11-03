@@ -145,25 +145,20 @@
             }
         },
         {
-            "label": "Dark image bottom, without title",
+            "label": "",
             "thumbnail": "images/placeholder.png",
             "data": {
-                "colors": "colors-c",
+                "colors": "colors-e",
                 "title": "",
                 "subtitle": "",
                 "testimonials": [
                     {
-                        "quote": "It’s great to see someone taking action while still maintaining a sustainable fish supply to home cooks.",
+                        "quote": "## It’s great to see someone taking action while still maintaining a sustainable fish supply to home cooks.",
                         "name": "Hilary Ouse",
                         "title": "Head Fisherman & Finance",
-                        "image": {
-                            "type": "ImageBlock",
-                            "url": "/images/fisherwoman.jpg",
-                            "altText": "Head Fisherman & Finance"
-                        },
                         "styles": {
                             "self": {
-                                "margin": ["mt-0", "mb-0"],
+                                "margin": ["mt-12", "mb-12"],
                                 "flexDirection": "col"
                             },
                             "quote": {
@@ -185,9 +180,9 @@
                 "styles": {
                     "self": {
                         "height": "auto",
-                        "width": "wide",
+                        "width": "full",
                         "margin": ["mt-0", "mb-0"],
-                        "padding": ["pt-12", "pb-12"],
+                        "padding": ["pt-0", "pb-0"],
                         "alignItems": "center",
                         "justifyContent": "center"
                     },
