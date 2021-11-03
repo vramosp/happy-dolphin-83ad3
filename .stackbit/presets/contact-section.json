@@ -4,11 +4,6 @@
         {
             "label": "Contact us dark - With image (right)",
             "thumbnail": "images/placeholder.png",
-            "feature":{
-                    "type":"ImageBlock",
-                    "url":"/images/contact.png",
-                    "altText":"Contact us"
-                },
             "data": {
                 "title": "Contact us",
                 "text": "We look forward to hearing from you.",
