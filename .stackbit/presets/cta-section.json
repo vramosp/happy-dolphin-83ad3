@@ -7,9 +7,9 @@
             "data": {
                 "colors": "colors-c",
                 "backgroundImage": {
-                "url": "",
-                "altText": ""
-            },
+                    "url": "",
+                    "altText": ""
+                },
                 "styles": {
                     "self": {
                         "height": "auto",
