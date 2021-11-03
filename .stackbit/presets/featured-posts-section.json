@@ -3,10 +3,11 @@
     "presets": [{
             "label": "3 columns light",
             
-            "subtitle": "",
+           
             "thumbnail": "images/featured-posts-3-light.png",
             "data": {
                 "title": "Latest posts",
+                 "subtitle": "",
                 "variant": "variant-a",
                 "colors": "colors-a"
             }
