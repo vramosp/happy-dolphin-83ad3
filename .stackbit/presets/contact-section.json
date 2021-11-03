@@ -42,7 +42,7 @@
             "data": {
                 "title": "Contact us",
                 "text": "We look forward to hearing from you.",
-                "colors": "colors-c",
+                "colors": "colors-a",
                 "elementId": "contact-form",
                 "action": "/.netlify/functions/submission_created",
                 "styles": {
