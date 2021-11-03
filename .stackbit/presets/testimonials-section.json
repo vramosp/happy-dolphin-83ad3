@@ -156,6 +156,13 @@
                         "quote": "It’s great to see someone taking action while still maintaining a sustainable fish supply to home cooks.",
                         "name": "Hilary Ouse",
                         "title": "Head Fisherman & Finance",
+                        "name": "Desmond Eagle",
+                        "title": "Head Fisherman & Founder",
+                        "image": {
+                            "type": "ImageBlock",
+                            "url": "/images/fish-guy.png",
+                            "altText": "Head Fisherman & Founder"
+                        },
                         "styles": {
                             "self": {
                                 "margin": ["mt-12", "mb-12"],
