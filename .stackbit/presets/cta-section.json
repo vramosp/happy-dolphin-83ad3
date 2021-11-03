@@ -6,6 +6,10 @@
             "backgroundWidth": "full",
             "data": {
                 "colors": "colors-c",
+                "backgroundImage": {
+                "url": "",
+                "altText": ""
+            },
                 "styles": {
                     "self": {
                         "height": "auto",
