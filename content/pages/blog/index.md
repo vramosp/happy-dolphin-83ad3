@@ -123,7 +123,7 @@ sections:
       text:
         textAlign: left
         margin:
-          - mb-5
+          - mb-10
       actions:
         justifyContent: flex-start
     type: HeroSection
