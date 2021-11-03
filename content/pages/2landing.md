@@ -16,7 +16,7 @@ sections:
   - elementId: ''
     variant: variant-c
     colors: colors-a
-    backgroundWidth: full
+    backgroundWidth: inset
     title: About us
     subtitle: Meet the team
     actions: []
