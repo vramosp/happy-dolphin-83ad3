@@ -10,7 +10,7 @@
                 "feature":{
                     "type":"ImageBlock",
                     "url":"/images/contact.png",
-                    "alt text":"Contact us"
+                    "altText":"Contact us"
                 },
                 "colors": "colors-c",
                 "elementId": "contact-form",
