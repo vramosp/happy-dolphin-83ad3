@@ -2,7 +2,7 @@
     "model": "CtaSection",
     "presets": [{
             "label": "Button dark",
-            "thumbnail": "images/cta-bottom.png",
+            "thumbnail": "images/cta-dark.jpg",
             "backgroundWidth": "full",
             "data": {
                 "colors": "colors-c",
@@ -36,10 +36,10 @@
         },
         {
             "label": "Button light",
-            "thumbnail": "images/cta-bottom.png",
+            "thumbnail": "images/cta-light.jpg",
             "backgroundWidth": "full",
             "data": {
-                "colors": "colors-a",
+                "colors": "colors-c",
                 "backgroundImage": {
                     "url": "",
                     "altText": ""
