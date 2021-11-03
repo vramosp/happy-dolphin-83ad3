@@ -66,7 +66,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
   - elementId: ''
-    colors: colors-d
+    colors: colors-e
     backgroundWidth: full
     title: ''
     subtitle: ''
