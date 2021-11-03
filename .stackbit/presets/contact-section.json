@@ -2,7 +2,7 @@
     "model": "ContactSection",
     "presets": [
         {
-            "label": "Image left, light",
+            "label": "Light, with image",
             "thumbnail": "images/placeholder.png",
             "data": {
                 "title": "Contact us",
