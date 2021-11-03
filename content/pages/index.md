@@ -67,7 +67,7 @@ sections:
     type: HeroSection
   - elementId: ''
     colors: colors-c
-    backgroundWidth: full
+    backgroundWidth: inset
     backgroundImage:
       url: ''
       altText: ''
