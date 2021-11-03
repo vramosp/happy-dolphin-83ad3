@@ -73,7 +73,7 @@ sections:
     action: /.netlify/functions/submission_created
     type: ContactSection
   - elementId: ''
-    variant: variant-b
+    variant: variant-c
     colors: colors-a
     backgroundWidth: full
     title: About us
