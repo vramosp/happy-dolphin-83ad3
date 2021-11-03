@@ -307,7 +307,7 @@ sections:
     type: CtaSection
   - elementId: ''
     colors: colors-a
-    backgroundWidth: inset
+    backgroundWidth: full
     backgroundImage:
       url: ''
       altText: ''
