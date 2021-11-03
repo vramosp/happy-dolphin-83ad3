@@ -39,7 +39,7 @@
             "thumbnail": "images/cta-light.jpg",
             "backgroundWidth": "full",
             "data": {
-                "colors": "colors-c",
+                "colors": "colors-a",
                 "backgroundImage": {
                     "url": "",
                     "altText": ""
