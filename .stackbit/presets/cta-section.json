@@ -4,6 +4,11 @@
             "label": "Button dark",
             "thumbnail": "images/cta-bottom.png",
             "backgroundWidth": "full",
+            "feature": {
+                    "type": "ImageBlock",
+                    "url": "/images/hero-image.png",
+                    "altText": "Hero section image"
+                },
             "data": {
                 "colors": "colors-c",
                 "styles": {
