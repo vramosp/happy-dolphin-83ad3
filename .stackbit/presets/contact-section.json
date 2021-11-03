@@ -80,7 +80,7 @@
                 "feature":{
                     "type":"ImageBlock",
                     "url":"",
-                    "altText":"Contact us"
+                    "altText":""
                 },
                 "colors": "colors-c",
                 "feature": null,
