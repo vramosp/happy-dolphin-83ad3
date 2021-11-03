@@ -67,7 +67,7 @@ sections:
     type: HeroSection
   - elementId: ''
     colors: colors-a
-    backgroundWidth: full
+    backgroundWidth: inset
     title: ''
     subtitle: ''
     testimonials:
