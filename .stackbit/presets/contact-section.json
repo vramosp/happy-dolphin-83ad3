@@ -7,6 +7,11 @@
             "data": {
                 "title": "Contact us",
                 "text": "We look forward to hearing from you.",
+                "feature":{
+                    "type":"ImageBlock",
+                    "url":"/images/contact.png",
+                    "altText":"Contact us"
+                },
                 "colors": "colors-c",
                 "elementId": "contact-form",
                 "action": "/.netlify/functions/submission_created",
