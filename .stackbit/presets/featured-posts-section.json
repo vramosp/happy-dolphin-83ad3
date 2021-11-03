@@ -2,7 +2,7 @@
     "model": "FeaturedPostsSection",
     "presets": [{
             "label": "3 columns, light",
-            "thumbnail": "images/featured-posts-3-light.png",
+            "thumbnail": "images/featured-posts-3-col-light.png",
             "data": {
                 "title": "Latest posts",
                  "subtitle": "",
