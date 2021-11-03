@@ -42,8 +42,7 @@
             "backgroundWith": "full",
             "data": {
                 "quote": "# It's great to see someone taking action while still maintaining a sustainable fish supply.",
-                "colors": "colors-b"
-                },
+                "colors": "colors-b",
                 "styles": {
                     "self": {
                         "height": "auto",
