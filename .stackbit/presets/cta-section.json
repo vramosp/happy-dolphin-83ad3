@@ -3,6 +3,7 @@
     "presets": [{
             "label": "Button dark",
             "thumbnail": "images/cta-bottom.png",
+            "backgroundWidth": "full",
             "data": {
                 "colors": "colors-c",
                 "styles": {
