@@ -498,31 +498,6 @@ sections:
             fontWeight: 400
             fontStyle: normal
             textAlign: left
-      - quote: >-
-          It’s great to see someone taking action while still maintaining a
-          sustainable fish supply to home cooks.
-        name: Hilary Ouse
-        title: Head Fisherman & Finance
-        image:
-          type: ImageBlock
-          url: /images/fisherwoman2.jpg
-          altText: Head Fisherman & Founder
-        styles:
-          self:
-            margin:
-              - mt-12
-              - mb-12
-            flexDirection: col
-          quote:
-            textAlign: center
-          name:
-            fontWeight: 400
-            fontStyle: normal
-            textAlign: center
-          title:
-            fontWeight: 400
-            fontStyle: normal
-            textAlign: center
     styles:
       self:
         height: auto
