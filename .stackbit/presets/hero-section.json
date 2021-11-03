@@ -31,7 +31,8 @@
                     "subtitle": {
                         "fontWeight": 400,
                         "fontStyle": "normal",
-                        "textAlign": "left"
+                        "textAlign": "left",
+                        "margin":
                     },
                     "text": {
                         "textAlign": "left"
