@@ -71,6 +71,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
+        
       actions:
         justifyContent: flex-start
 layout: PageLayout
