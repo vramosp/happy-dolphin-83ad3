@@ -34,7 +34,7 @@ sections:
         textAlign: left
     type: QuoteSection
   - elementId: ''
-    variant: variant-a
+    variant: variant-c
     colors: colors-a
     backgroundWidth: full
     title: Latest posts
