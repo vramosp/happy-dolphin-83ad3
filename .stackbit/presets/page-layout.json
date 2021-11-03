@@ -199,7 +199,7 @@
                                 "textAlign": "left"
                             },
                             "subtitle": {
-                                "textAlign": "left"
+                                "padding": "left"
                             },
                             "text": {
                                 "textAlign": "left"
