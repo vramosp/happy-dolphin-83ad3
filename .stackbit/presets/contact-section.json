@@ -3,7 +3,7 @@
     "presets": [
         {
             "label": "Light, with image",
-            "thumbnail": "images/contact-inag",
+            "thumbnail": "images/contact-light.jpg",
             "data": {
                 "title": "Contact us",
                 "text": "We look forward to hearing from you.",
