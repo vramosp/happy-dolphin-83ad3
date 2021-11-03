@@ -4,7 +4,7 @@
             "label": "Button dark",
             "thumbnail": "images/cta-bottom.png",
             "backgroundWidth": "full",
-            "feature": {
+            "ImageBlock": {
                     "type": "ImageBlock",
                     "url": "/images/hero-image.png",
                     "altText": "Hero section image"
