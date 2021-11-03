@@ -148,14 +148,6 @@ sections:
   - elementId: ''
     colors: colors-c
     backgroundWidth: full
-    backgroundImage:
-      altText: lorem-ipsum
-      caption: lorem-ipsum
-      elementId: ''
-      styles:
-        self:
-          opacity: 100
-      type: ImageBlock
     title: Let's do this
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
