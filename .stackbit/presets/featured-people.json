@@ -10,7 +10,7 @@
         },
         {
             "label": "2 columns light ",
-            "thumbnail": "images/people-2-col-light.png",
+            "thumbnail": "images/placeholder.png",
             "data": {
                 "variant": "variant-b",
                 "colors": "colors-a"
