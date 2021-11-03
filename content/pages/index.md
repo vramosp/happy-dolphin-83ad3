@@ -503,7 +503,7 @@ sections:
         height: auto
         width: full
         margin:
-          - mt-12
+          - mt-0
           - mb-12
         padding:
           - pt-0
