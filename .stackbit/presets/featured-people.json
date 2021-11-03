@@ -4,7 +4,7 @@
             "label": "4 columns light",
             "thumbnail": "images/people-4-col-light.png",
             "data": {
-                "variant": "variant-a",
+                "variant": "variant-b",
                 "colors": "colors-a"
             }
         },
