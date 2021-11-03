@@ -160,7 +160,8 @@
                             "subtitle": {
                                 "fontWeight": 400,
                                 "fontStyle": "normal",
-                                "textAlign": "left"
+                                "textAlign": "left",
+                                "padding":["pb-5"]
                             },
                             "text": {
                                 "textAlign": "left"
