@@ -51,7 +51,7 @@ sections:
         fontWeight: 400
         fontStyle: normal
         textAlign: left
-        margin:
+        padding:
           - mt-8
           - mb-8
       text:
