@@ -72,7 +72,7 @@ sections:
       text:
         textAlign: left
         padding:
-          - pt: 8
+          - pb: 8
       actions:
         justifyContent: flex-start
 layout: PageLayout
