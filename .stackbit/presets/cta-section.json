@@ -35,7 +35,7 @@
             }
         },
         {
-            "label": "Button dark",
+            "label": "Button light",
             "thumbnail": "images/cta-bottom.png",
             "backgroundWidth": "full",
             "data": {
