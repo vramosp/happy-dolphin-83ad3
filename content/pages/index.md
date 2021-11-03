@@ -76,9 +76,6 @@ sections:
           sustainable fish supply to home cooks.
         name: Hilary Ouse
         title: Head Fisherman & Finance
-        image:
-          type: ImageBlock
-          altText: Head Fisherman & Finance
         styles:
           self:
             margin:
