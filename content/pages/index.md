@@ -547,7 +547,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
   - elementId: contact-form
-    colors: colors-c
+    colors: colors-a
     backgroundWidth: full
     title: Contact us
     text: We look forward to hearing from you.
