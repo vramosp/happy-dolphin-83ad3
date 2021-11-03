@@ -507,7 +507,7 @@ sections:
           - mb-0
         padding:
           - pt-12
-          - pb-0
+          - pb-12
         alignItems: center
         justifyContent: center
       title:
