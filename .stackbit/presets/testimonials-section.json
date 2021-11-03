@@ -43,7 +43,7 @@
                         "title": "Head Fisherwoman & Founder",
                         "image": {
                             "type": "ImageBlock",
-                            "url": "/images/fish-guy.png",
+                            "url": "/images/fish-guy.jpg",
                             "altText": "Head Fisherwoman & Founder"
                         },
                         "styles": {
@@ -57,12 +57,12 @@
                             "name": {
                                 "fontWeight": 400,
                                 "fontStyle": "normal",
-                                "textAlign": "right"
+                                "textAlign": "left"
                             },
                             "title": {
                                 "fontWeight": 400,
                                 "fontStyle": "normal",
-                                "textAlign": "center"
+                                "textAlign": "left"
                             }
                         }
                     }
