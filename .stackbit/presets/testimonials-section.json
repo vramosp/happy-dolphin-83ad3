@@ -2,7 +2,7 @@
     "model": "TestimonialsSection",
     "presets": [{
             "label": "Light image bottom, with title",
-            "thumbnail": "images/testimonials-light1.png",
+            "thumbnail": "images/placeholder.png",
             "data": {
                 "colors": "colors-a",
                 "title": "Testimonials",
@@ -10,12 +10,12 @@
                 "testimonials": [
                     {
                         "quote": "It’s great to see someone taking action while still maintaining a sustainable fish supply to home cooks.",
-                        "name": "Isabelle Parks",
-                        "title": "Head chef at The Cook",
+                        "name": "Hilary Ouse",
+                        "title": "Head Fisherman & Finance",
                         "image": {
                             "type": "ImageBlock",
-                            "url": "/images/isabelle-parks.jpg",
-                            "altText": "Photo of Isabelle Parks"
+                            "url": "/images/fisherwoman.jpg",
+                            "altText": "Head Fisherman & Finance"
                         },
                         "styles": {
                             "self": {
@@ -62,7 +62,7 @@
         },
         {
             "label": "Light image left, with title",
-            "thumbnail": "images/testimonials-light2.png",
+            "thumbnail": "images/placeholder.png",
             "data": {
                 "colors": "colors-a",
                 "title": "Testimonials",
@@ -70,12 +70,12 @@
                 "testimonials": [
                     {
                         "quote": "It’s great to see someone taking action while still maintaining a sustainable fish supply to home cooks.",
-                        "name": "Isabelle Parks",
-                        "title": "Head chef at The Cook",
+                        "name": "Hilary Ouse",
+                        "title": "Head Fisherman & Finance",
                         "image": {
                             "type": "ImageBlock",
-                            "url": "/images/isabelle-parks.jpg",
-                            "altText": "Photo of Isabelle Parks"
+                            "url": "/images/fisherwoman.jpg",
+                            "altText": "Head Fisherman & Finance"
                         },
                         "styles": {
                             "self": {
@@ -122,7 +122,7 @@
         },
         {
             "label": "Dark image bottom, without title",
-            "thumbnail": "images/testimonials-dark1.png",
+            "thumbnail": "images/placeholder.png",
             "data": {
                 "colors": "colors-c",
                 "title": "",
@@ -130,12 +130,12 @@
                 "testimonials": [
                     {
                         "quote": "It’s great to see someone taking action while still maintaining a sustainable fish supply to home cooks.",
-                        "name": "Isabelle Parks",
-                        "title": "Head chef at The Cook",
+                        "name": "Hilary Ouse",
+                        "title": "Head Fisherman & Finance",
                         "image": {
                             "type": "ImageBlock",
-                            "url": "/images/isabelle-parks.jpg",
-                            "altText": "Photo of Isabelle Parks"
+                            "url": "/images/fisherwoman.jpg",
+                            "altText": "Head Fisherman & Finance"
                         },
                         "styles": {
                             "self": {
@@ -182,7 +182,7 @@
         },
         {
             "label": "Dark image left, without title",
-            "thumbnail": "images/testimonials-dark2.png",
+            "thumbnail": "images/placeholder.png",
             "data": {
                 "colors": "colors-c",
                 "title": "",
@@ -190,12 +190,12 @@
                 "testimonials": [
                     {
                         "quote": "It’s great to see someone taking action while still maintaining a sustainable fish supply to home cooks.",
-                        "name": "Isabelle Parks",
-                        "title": "Head chef at The Cook",
+                        "name": "Hilary Ouse",
+                        "title": "Head Fisherman & Finance",
                         "image": {
                             "type": "ImageBlock",
-                            "url": "/images/isabelle-parks.jpg",
-                            "altText": "Photo of Isabelle Parks"
+                            "url": "/images/fisherwoman.jpg",
+                            "altText": "Head Fisherman & Finance"
                         },
                         "styles": {
                             "self": {
