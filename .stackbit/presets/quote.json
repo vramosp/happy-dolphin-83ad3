@@ -73,7 +73,7 @@
             }
         },
         {
-            "label": "With bg image, text left",
+            "label": "Dark background",
             "thumbnail": "images/placeholder.png",
             "backgroundWith": "full",
             "data": {
