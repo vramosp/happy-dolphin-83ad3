@@ -38,7 +38,7 @@
         },
         {
             "label": "Dark, no image",
-            "thumbnail": "images/contact-light.jpg",
+            "thumbnail": "images/contact-dark.jpg",
             "data": {
                 "title": "Contact us",
                 "text": "We look forward to hearing from you.",
