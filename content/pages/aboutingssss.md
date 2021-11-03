@@ -70,7 +70,7 @@ sections:
         fontStyle: normal
         textAlign: left
       subtitle:
-        padding:
+        margin:
           - pb-5
       text:
         textAlign: left
