@@ -1,7 +1,7 @@
 {
     "model": "QuoteSection",
     "presets": [{
-            "label": "With bg image, text left",
+            "label": "White background",
             "thumbnail": "images/placeholder.png",
             "backgroundWith": "full",
             "data": {
