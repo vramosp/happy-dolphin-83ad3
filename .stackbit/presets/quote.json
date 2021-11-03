@@ -5,7 +5,7 @@
             "thumbnail": "images/placeholder.png",
             "backgroundWith": "full",
             "data": {
-                "quote": "# this is a quote",
+                "quote": "# ",
                 "colors": "colors-a",
                 "backgroundImage": {
                     "url": "/images/BG.png",
