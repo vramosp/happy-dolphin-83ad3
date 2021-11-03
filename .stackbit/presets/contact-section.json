@@ -7,7 +7,7 @@
             "data": {
                 "title": "Contact us",
                 "text": "We look forward to hearing from you.",
-                "feature":
+                "feature"{},
                 "colors": "colors-c",
                 "elementId": "contact-form",
                 "action": "/.netlify/functions/submission_created",
