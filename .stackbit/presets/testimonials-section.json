@@ -23,7 +23,7 @@
                                 "flexDirection": "row-reverse"
                             },
                             "quote": {
-                                "textAlign": "center"
+                                "textAlign": "left"
                             },
                             "name": {
                                 "fontWeight": 400,
