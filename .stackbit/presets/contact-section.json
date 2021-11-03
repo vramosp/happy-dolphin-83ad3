@@ -9,7 +9,7 @@
                 "text": "We look forward to hearing from you.",
                 "feature":{
                     "type":"ImageBlock",
-                    "url"
+                    "url":"/images/contact.png"
                 },
                 "colors": "colors-c",
                 "elementId": "contact-form",
