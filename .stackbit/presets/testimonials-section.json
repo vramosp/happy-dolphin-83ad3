@@ -72,11 +72,6 @@
                         "quote": "## It’s great to see someone taking action while still maintaining a sustainable fish supply to home cooks.",
                         "name": "Hilary Ouse",
                         "title": "Head Fisherman & Finance",
-                        "image": {
-                            "type": "ImageBlock",
-                            "url": "",
-                            "altText": ""
-                        },
                         "styles": {
                             "self": {
                                 "margin": ["mt-0", "mb-0"],
