@@ -5,7 +5,6 @@
             "thumbnail": "images/cta-bottom.png",
             "backgroundWidth": "full",
             "ImageBlock": {
-                    "type": "ImageBlock",
                     "url": "/images/hero-image.png",
                     "altText": "Hero section image"
                 },
