@@ -38,12 +38,13 @@
         {
             "label": "With bg image, text rigth",
             "thumbnail": "images/placeholder.png",
+            "backgroundWith": "full",
             "data": {
-                "colors": "colors-c",
+                "colors": "colors-a",
                 "contentAlignHoriz": "right",
                 "contentAlignVert": "top",
                 "backgroundImage": {
-                    "url": "/images/post-1.jpeg",
+                    "url": "/images/BG.png",
                     "altText": "Product Marketing Manager Quote"
                 },
                 "styles": {
@@ -51,8 +52,8 @@
                         "height": "auto",
                         "width": "wide",
                         "margin": ["mt-0", "mb-0"],
-                        "padding": ["pt-12", "pb-36"],
-                        "alignItems": "flex-end",
+                        "padding": ["pt-36", "pb-36"],
+                        "alignItems": "center",
                         "justifyContent": "center"
                     },
                     "quote": {
@@ -66,7 +67,8 @@
                     "title": {
                         "fontWeight": 400,
                         "fontStyle": "normal",
-                        "textAlign": "right"
+                        "textAlign": "right",
+                        "fontFestive": "Rakkas"
                     }
                 }
             }
