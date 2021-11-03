@@ -7,7 +7,7 @@
             "Feature": {
                     "type": "ImageBlock",
                     "url": "",
-                    "altText": "Hero section image"
+                    "altText": ""
                 },
             "data": {
                 "colors": "colors-c",
