@@ -107,7 +107,7 @@ sections:
           - pt-0
           - pb-0
         alignItems: center
-        justifyContent: center
+        justifyContent: flex-end
         flexDirection: row-reverse
       title:
         fontWeight: 700
