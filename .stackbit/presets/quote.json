@@ -73,21 +73,23 @@
             }
         },
         {
-            "label": "Without bg image text left",
+            "label": "With bg image, text left",
             "thumbnail": "images/placeholder.png",
+            "backgroundWith": "full",
             "data": {
                 "quote": "# It's great to see someone taking action while still maintaining a sustainable fish supply.",
-                "colors": "colors-c",
-                "contentAlignHoriz": "left",
-                "contentAlignVert": "bottom",
-                "backgroundImage": null,
+                "colors": "colors-a",
+                "backgroundImage": {
+                    "url": "/images/BG.png",
+                    "altText": "Product Marketing Manager Quote"
+                },
                 "styles": {
                     "self": {
                         "height": "auto",
                         "width": "wide",
                         "margin": ["mt-0", "mb-0"],
-                        "padding": ["pt-36", "pb-12"],
-                        "alignItems": "flex-start",
+                        "padding": ["pt-36", "pb-36"],
+                        "alignItems": "center",
                         "justifyContent": "center"
                     },
                     "quote": {
