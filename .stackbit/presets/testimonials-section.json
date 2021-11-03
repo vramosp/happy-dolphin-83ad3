@@ -1,7 +1,7 @@
 {
     "model": "TestimonialsSection",
     "presets": [{
-            "label": "Light image bottom, with title",
+            "label": "",
             "thumbnail": "images/placeholder.png",
             "data": {
                 "colors": "colors-a",
