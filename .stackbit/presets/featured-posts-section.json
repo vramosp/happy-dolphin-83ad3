@@ -21,9 +21,11 @@
             }
         },
         {
-            "label": "2 columns dark",
+            "label": "2 columns, dark",
             "thumbnail": "images/featured-posts-2-dark.png",
             "data": {
+                "title": "Latest posts",
+                 "subtitle": "",
                 "variant": "variant-c",
                 "colors": "colors-c"
             }
