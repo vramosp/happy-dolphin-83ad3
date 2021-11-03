@@ -5,10 +5,7 @@
             "thumbnail": "images/placeholder.png",
             "data": {
                 "variant": "variant-b",
-                "colors": "colors-a",
-                "people":[
-                    {}
-                ]
+                "colors": "colors-a"
             }
         },
         {
