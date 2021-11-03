@@ -43,7 +43,7 @@
                         "height": "auto",
                         "width": "wide",
                         "margin": ["mt-0", "mb-0"],
-                        "padding": ["pt-0", "pb-12"],
+                        "padding": ["pt-0", "pb-0"],
                         "alignItems": "center",
                         "justifyContent": "center",
                         "flexDirection": "row-reverse"
