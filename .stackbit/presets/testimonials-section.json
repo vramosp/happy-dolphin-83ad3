@@ -20,7 +20,7 @@
                         "styles": {
                             "self": {
                                 "margin": ["mt-0", "mb-0"],
-                                "flexDirection": "col"
+                                "flexDirection": "row-reverse"
                             },
                             "quote": {
                                 "textAlign": "center"
