@@ -54,7 +54,7 @@
             }
         }, {
             "label": "Contact",
-            "thumbnail": "images/page-contact.png",
+            "thumbnail": "images/page-contact.jpg",
             "data": {
                 "title": "Contact us",
                 "sections": [
