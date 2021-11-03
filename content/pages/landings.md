@@ -306,7 +306,7 @@ sections:
         justifyContent: flex-start
     type: CtaSection
   - elementId: ''
-    colors: colors-c
+    colors: colors-a
     backgroundWidth: full
     backgroundImage:
       url: ''
