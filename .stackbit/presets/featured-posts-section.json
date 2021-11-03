@@ -7,12 +7,7 @@
                 "title": "Latest posts",
                  "subtitle": "",
                 "variant": "variant-a",
-                "colors": "colors-a",
-                "actions":{
-                    "type":"Button",
-                    "sty"
-
-                }
+                "colors": "colors-a"
             }
         },
         {
