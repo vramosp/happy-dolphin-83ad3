@@ -85,7 +85,7 @@ sections:
             margin:
               - mt-0
               - mb-0
-            flexDirection: col
+            flexDirection: row
           quote:
             textAlign: center
           name:
