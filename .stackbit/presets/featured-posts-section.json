@@ -9,8 +9,8 @@
                 "variant": "variant-a",
                 "colors": "colors-a",
                 "actions":{
-                    "type":"button",
-                    
+                    "type":"Button",
+
                 }
             }
         },
