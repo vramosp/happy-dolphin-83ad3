@@ -78,7 +78,6 @@ sections:
         title: Head Fisherman & Finance
         image:
           type: ImageBlock
-          url: /images/fisherwoman.jpg
           altText: Head Fisherman & Finance
         styles:
           self:
