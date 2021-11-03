@@ -47,38 +47,6 @@ sections:
       actions:
         justifyContent: center
     type: FeaturedPeopleSection
-  - elementId: ''
-    variant: variant-b
-    colors: colors-a
-    backgroundWidth: full
-    title: About us
-    subtitle: Meet the team
-    actions: []
-    people:
-      - {}
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-        padding:
-          - pt-12
-          - pb-12
-        alignItems: center
-        justifyContent: center
-      title:
-        fontWeight: 700
-        fontStyle: normal
-        textAlign: center
-      subtitle:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: center
-      actions:
-        justifyContent: center
-    type: FeaturedPeopleSection
   - elementId: contact-form
     colors: colors-a
     backgroundWidth: full
