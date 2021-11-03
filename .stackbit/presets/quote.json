@@ -37,7 +37,7 @@
             }
         },
         {
-            "label": "With bg image, text left",
+            "label": "Font color",
             "thumbnail": "images/placeholder.png",
             "backgroundWith": "full",
             "data": {
