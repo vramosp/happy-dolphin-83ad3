@@ -10,7 +10,7 @@
         },
         {
             "label": "2 columns alt grid ",
-            "thumbnail": "images/placeholder.png",
+            "thumbnail": "images/people-alt-grid.png",
             "data": {
                 "variant": "variant-c",
                 "colors": "colors-a"
