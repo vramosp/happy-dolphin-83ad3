@@ -134,7 +134,7 @@ sections:
         textAlign: left
     type: QuoteSection
   - elementId: ''
-    colors: colors-g
+    colors: colors-i
     backgroundWidth: full
     quote: >-
       # It's great to see someone taking action while still maintaining a
