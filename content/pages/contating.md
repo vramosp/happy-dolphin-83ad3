@@ -55,7 +55,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    colors: colors-b
+    colors: colors-a
 layout: PageLayout
 _slug: maroon-tortoise-20
 ---
