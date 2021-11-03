@@ -44,7 +44,7 @@
                         "image": {
                             "type": "ImageBlock",
                             "url": "/images/fish-guy.png",
-                            "altText": "Head Fisherwoman & Founder"
+                            "altText": "Head Fisherman & Founder"
                         },
                         "styles": {
                             "self": {
