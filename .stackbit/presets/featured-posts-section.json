@@ -2,6 +2,7 @@
     "model": "FeaturedPostsSection",
     "presets": [{
             "label": "3 columns light",
+            "title": 
             "thumbnail": "images/featured-posts-3-light.png",
             "data": {
                 "variant": "variant-a",
