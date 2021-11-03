@@ -9,7 +9,7 @@
             }
         },
         {
-            "label": "2 columns light ",
+            "label": "2 columns alt grid ",
             "thumbnail": "images/placeholder.png",
             "data": {
                 "variant": "variant-b",
