@@ -9,14 +9,14 @@
         },
         {
             "label": "Light",
-            "thumbnail": "images/text-section-dark.png",
+            "thumbnail": "images/text-section-dark.jpg",
             "data": {
                 "colors": "colors-b"
             }
         },
         {
             "label": "Complementary",
-            "thumbnail": "images/text-section-complementary.png",
+            "thumbnail": "images/text-section-complementary.jpg",
             "data": {
                 "colors": "colors-h"
             }
