@@ -445,7 +445,7 @@ sections:
   - elementId: ''
     colors: colors-c
     backgroundWidth: full
-    title: ''
+    title: Testimonials
     subtitle: ''
     testimonials:
       - quote: >-
