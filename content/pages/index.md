@@ -72,7 +72,7 @@ sections:
     subtitle: ''
     testimonials:
       - quote: >
-          It’s great to see someone taking action while still maintaining a
+          # It’s great to see someone taking action while still maintaining a
           sustainable fish supply to home cooks.
         name: Hilary Ouse
         title: Head Fisherman & Finance
