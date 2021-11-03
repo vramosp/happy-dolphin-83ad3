@@ -198,6 +198,11 @@
                                 "fontStyle": "normal",
                                 "textAlign": "left"
                             },
+                            "subtitle": {
+                                "fontWeight": 700,
+                                "fontStyle": "normal",
+                                "textAlign": "left"
+                            },
                             "text": {
                                 "textAlign": "left"
                             },
