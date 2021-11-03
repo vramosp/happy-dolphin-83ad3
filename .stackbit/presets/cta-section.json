@@ -5,9 +5,8 @@
             "thumbnail": "images/cta-bottom.png",
             "backgroundWidth": "full",
             "backgroundImage": {
-                    "type": "ImageBlock",
-                    "url": "",
-                    "altText": ""
+                "url": "",
+                "altText": ""
             },
             "data": {
                 "colors": "colors-c",
