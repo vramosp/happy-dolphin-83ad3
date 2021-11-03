@@ -8,6 +8,7 @@
                 "title": "Contact us",
                 "text": "We look forward to hearing from you.",
                 "feature":{
+                    "type":"ImageBlock",
                     "url":"/images/contact.png",
                     "alt text":"Contact us"
                 },
