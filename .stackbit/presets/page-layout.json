@@ -199,7 +199,7 @@
                                 "textAlign": "left"
                             },
                             "subtitle": {
-                                "padding": [pb-5]
+                                "padding": [-5]
                             },
                             "text": {
                                 "textAlign": "left"
