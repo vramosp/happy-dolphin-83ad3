@@ -35,10 +35,15 @@
             }
         },
         {
-            "label": "Button right",
-            "thumbnail": "images/cta-right.png",
+            "label": "Button dark",
+            "thumbnail": "images/cta-bottom.png",
+            "backgroundWidth": "full",
             "data": {
                 "colors": "colors-c",
+                "backgroundImage": {
+                    "url": "",
+                    "altText": ""
+                },
                 "styles": {
                     "self": {
                         "height": "auto",
@@ -47,7 +52,7 @@
                         "padding": ["pt-12", "pb-12"],
                         "alignItems": "center",
                         "justifyContent": "center",
-                        "flexDirection": "row"
+                        "flexDirection": "col"
                     },
                     "title": {
                         "fontWeight": 700,
